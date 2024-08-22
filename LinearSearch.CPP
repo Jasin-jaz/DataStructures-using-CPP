@@ -1,3 +1,4 @@
+//Program to perform linear search
 #include <iostream>
 using namespace std;
 
