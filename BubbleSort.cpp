@@ -35,7 +35,7 @@ void BubbleSort::sort() {
     cout << "Elements after sorting:\n";
     for (int i = 0; i < n; i++)  
         cout << a[i] << "\t";
-    cout << "\nNumber of comparisons = " << k << endl;
+    cout << "\nNumber of comparisons: " << k << endl;
 }
 
 void BubbleSort::display() {
